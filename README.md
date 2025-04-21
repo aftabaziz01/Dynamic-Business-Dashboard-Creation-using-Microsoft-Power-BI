@@ -1,1 +1,1 @@
-Using Visualisation tool like Power BI. I have try to build an effective Dynamic Business Dashboard.
+Using Visualisation tool like Power BI. I have build an effective Dynamic Business Dashboard.
